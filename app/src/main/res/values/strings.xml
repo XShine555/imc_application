@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IMC_Application</string>
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="acceder">Acceder</string>
+</resources>
